@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333084320028",
+    "firebase_url": "https://new-app-f1f1f-default-rtdb.firebaseio.com",
+    "project_id": "new-app-f1f1f",
+    "storage_bucket": "new-app-f1f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333084320028:android:d0c5dc86b01f997d1bdad9",
+        "android_client_info": {
+          "package_name": "com.company.flutterai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333084320028-kvuhetpvgmsf7is7350eimagk44l0l8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAgwPSQxKQz0Rul-DMp6GpAiX3wLClbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333084320028-kvuhetpvgmsf7is7350eimagk44l0l8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333084320028-qfvluhlft0o26mrmaaelmor2dq2enakh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.flutterai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
